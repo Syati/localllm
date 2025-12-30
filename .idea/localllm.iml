@@ -37,10 +37,12 @@
     <orderEntry type="library" scope="TEST" name="bundler-audit (v0.9.3, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="TEST" name="capybara (v3.40.0, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.3.6, mise: 4.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="config (v5.6.1, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="connection_pool (v3.0.2, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="date (v3.5.1, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug (v1.11.1, mise: 4.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="deep_merge (v1.2.2, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="dotenv (v3.2.0, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="drb (v2.2.3, mise: 4.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ed25519 (v1.4.0, mise: 4.0.0) [gem]" level="application" />
