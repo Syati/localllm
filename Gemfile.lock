@@ -195,6 +195,9 @@ GEM
       racc (~> 1.4)
     nokogiri (1.19.0-x86_64-linux-gnu)
       racc (~> 1.4)
+    openai (0.42.0)
+      base64
+      connection_pool
     ostruct (0.6.3)
     parallel (1.27.0)
     parser (3.3.10.0)
@@ -379,6 +382,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
+  openai
   propshaft
   puma (>= 5.0)
   rails (~> 8.1.1)
@@ -466,6 +470,7 @@ CHECKSUMS
   nokogiri (1.19.0-aarch64-linux-gnu) sha256=11a97ecc3c0e7e5edcf395720b10860ef493b768f6aa80c539573530bc933767
   nokogiri (1.19.0-arm64-darwin) sha256=0811dfd936d5f6dd3f6d32ef790568bf29b2b7bead9ba68866847b33c9cf5810
   nokogiri (1.19.0-x86_64-linux-gnu) sha256=f482b95c713d60031d48c44ce14562f8d2ce31e3a9e8dd0ccb131e9e5a68b58c
+  openai (0.42.0) sha256=3abeb5538f74b688f1f13f75fe910139c3167a7610ae332ed79d8a241b24261c
   ostruct (0.6.3) sha256=95a2ed4a4bd1d190784e666b47b2d3f078e4a9efda2fccf18f84ddc6538ed912
   parallel (1.27.0) sha256=4ac151e1806b755fb4e2dc2332cbf0e54f2e24ba821ff2d3dcf86bf6dc4ae130
   parser (3.3.10.0) sha256=ce3587fa5cc55a88c4ba5b2b37621b3329aadf5728f9eafa36bbd121462aabd6
