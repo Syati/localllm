@@ -9,6 +9,7 @@
 
 # Ignore all environment files.
 /.env*
+!/.env.brave.sample
 
 # Ignore all logfiles and tempfiles.
 /log/*

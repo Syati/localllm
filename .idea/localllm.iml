@@ -49,6 +49,8 @@
     <orderEntry type="library" scope="PROVIDED" name="erb (v6.0.1, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.13.1, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="et-orbi (v1.4.0, mise: 3.4.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday (v2.14.0, mise: 3.4.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday-net_http (v3.4.2, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.17.3, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="fugit (v1.12.1, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.3.0, mise: 3.4.8) [gem]" level="application" />
@@ -71,6 +73,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.1.5, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v6.0.1, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.8.0, mise: 3.4.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-http (v0.9.1, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="net-imap (v0.6.2, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.2, mise: 3.4.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="net-protocol (v0.2.2, mise: 3.4.8) [gem]" level="application" />
